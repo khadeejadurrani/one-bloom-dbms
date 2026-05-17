@@ -1,0 +1,6 @@
+admin_id,name,email,password_hash,role,created_at
+1,Zara Malik,zara.malik@onebloom.pk,$2b$12$hashedpassword001ABCDEF,Super Admin,2023-06-13 03:01:47
+2,Ayesha Khan,ayesha.khan@onebloom.pk,$2b$12$hashedpassword002ABCDEF,Manager,2023-03-12 07:14:08
+3,Hira Ahmed,hira.ahmed@onebloom.pk,$2b$12$hashedpassword003ABCDEF,Manager,2023-01-27 21:47:57
+4,Sana Raza,sana.raza@onebloom.pk,$2b$12$hashedpassword004ABCDEF,Manager,2023-05-20 02:37:27
+5,Noor Fatima,noor.fatima@onebloom.pk,$2b$12$hashedpassword005ABCDEF,Manager,2023-01-09 00:05:13

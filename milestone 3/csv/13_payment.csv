@@ -1,0 +1,81 @@
+payment_id,order_id,method,amount,status,payment_date
+1,1,EasyPaisa,501.98,Paid,2024-03-19 11:55:49
+2,2,Card,1483.85,Paid,2024-08-21 12:47:28
+3,3,EasyPaisa,1757.0,Paid,2024-10-22 11:59:51
+4,4,JazzCash,3674.76,Paid,2023-08-20 13:38:52
+5,5,Cash,1569.13,Paid,2024-05-01 21:18:19
+6,6,EasyPaisa,3328.3,Paid,2024-08-28 11:28:02
+7,7,EasyPaisa,2901.63,Paid,2025-03-16 01:04:42
+8,8,EasyPaisa,1857.74,Pending,
+9,9,Bank Transfer,3164.07,Paid,2023-10-08 02:15:49
+10,10,Cash,1852.92,Pending,
+11,11,EasyPaisa,1893.86,Paid,2025-01-08 04:33:23
+12,12,JazzCash,3045.68,Paid,2023-09-25 00:47:11
+13,13,Bank Transfer,1956.0,Paid,2024-02-24 08:45:28
+14,14,JazzCash,1535.14,Paid,2024-10-15 06:07:08
+15,15,JazzCash,2225.98,Paid,2024-08-29 02:51:43
+16,16,EasyPaisa,3121.54,Pending,
+17,17,JazzCash,3304.01,Pending,
+18,18,JazzCash,853.65,Paid,2023-10-21 07:50:31
+19,19,JazzCash,2649.19,Paid,2024-12-16 04:39:56
+20,20,Cash,1633.56,Paid,2024-10-03 16:26:49
+21,21,EasyPaisa,656.07,Paid,2025-03-19 02:28:29
+22,22,JazzCash,1779.74,Paid,2024-12-16 20:37:11
+23,23,EasyPaisa,2145.37,Paid,2023-07-27 03:33:09
+24,24,EasyPaisa,1022.16,Paid,2024-01-17 11:33:57
+25,25,JazzCash,1390.01,Paid,2024-12-16 08:08:40
+26,26,JazzCash,2563.93,Failed,
+27,27,JazzCash,3340.63,Paid,2024-12-29 01:52:55
+28,28,Cash,538.67,Paid,2025-01-11 08:41:13
+29,29,JazzCash,2078.84,Paid,2024-10-22 20:34:18
+30,30,EasyPaisa,2354.22,Paid,2024-07-20 09:29:04
+31,31,Cash,1006.03,Pending,
+32,32,Card,3925.16,Paid,2024-05-19 12:08:48
+33,33,JazzCash,2680.85,Paid,2024-09-20 03:17:28
+34,34,EasyPaisa,751.77,Pending,
+35,35,JazzCash,3725.93,Paid,2024-04-16 06:48:10
+36,36,Cash,2287.28,Pending,
+37,37,EasyPaisa,4361.75,Paid,2024-05-27 01:03:18
+38,38,JazzCash,4011.71,Paid,2024-09-24 09:34:00
+39,39,JazzCash,2138.35,Paid,2024-06-09 12:23:02
+40,40,Bank Transfer,2716.67,Paid,2024-12-18 09:04:24
+41,41,Cash,3522.28,Paid,2025-02-28 21:39:07
+42,42,Bank Transfer,1984.7,Pending,
+43,43,EasyPaisa,2850.22,Pending,
+44,44,Cash,3686.46,Paid,2023-10-31 19:57:32
+45,45,JazzCash,4215.18,Failed,
+46,46,Cash,1745.95,Pending,
+47,47,Bank Transfer,3735.36,Paid,2025-04-20 03:26:37
+48,48,Card,2827.17,Paid,2025-04-02 18:36:14
+49,49,EasyPaisa,2771.62,Pending,
+50,50,EasyPaisa,963.27,Failed,
+51,51,Bank Transfer,2180.31,Paid,2024-07-27 22:13:26
+52,52,Bank Transfer,4170.16,Paid,2023-08-03 22:08:33
+53,53,EasyPaisa,1698.96,Paid,2024-11-20 12:20:11
+54,54,JazzCash,1770.66,Paid,2025-04-28 20:51:44
+55,55,Cash,2359.35,Paid,2024-03-12 17:19:14
+56,56,EasyPaisa,3275.34,Paid,2024-10-13 10:30:22
+57,57,EasyPaisa,1544.33,Paid,2024-12-08 12:57:25
+58,58,JazzCash,4311.63,Paid,2024-03-24 01:18:45
+59,59,JazzCash,4184.64,Paid,2024-10-03 06:12:52
+60,60,EasyPaisa,4222.05,Pending,
+61,61,Card,1356.2,Paid,2024-11-25 07:40:14
+62,62,Cash,2065.2,Failed,
+63,63,Bank Transfer,4408.33,Pending,
+64,64,Card,1682.85,Pending,
+65,65,Cash,4139.9,Pending,
+66,66,EasyPaisa,1123.19,Paid,2024-03-23 01:00:19
+67,67,Bank Transfer,795.3,Pending,
+68,68,JazzCash,4040.43,Paid,2024-10-29 14:17:12
+69,69,JazzCash,1722.34,Paid,2025-03-25 08:45:11
+70,70,EasyPaisa,3631.69,Paid,2023-12-15 05:39:54
+71,71,JazzCash,3782.01,Pending,
+72,72,Cash,2331.43,Paid,2023-06-07 08:24:15
+73,73,EasyPaisa,4309.24,Failed,
+74,74,EasyPaisa,607.82,Failed,
+75,75,EasyPaisa,3214.71,Paid,2024-03-29 11:39:14
+76,76,Bank Transfer,2334.45,Paid,2025-02-10 11:26:44
+77,77,JazzCash,3493.0,Paid,2024-01-10 07:43:48
+78,78,JazzCash,2530.85,Paid,2024-06-05 02:58:36
+79,79,Cash,3789.41,Paid,2023-12-25 18:34:09
+80,80,EasyPaisa,3896.12,Paid,2025-04-27 06:45:37
